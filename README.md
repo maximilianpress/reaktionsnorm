@@ -2,7 +2,7 @@
 
 This repo contains files related to a draft translation of Woltereck's classic 1909 paper into English. 
 
-This translation is in progress. I will update it periodically as I find time to work on it.
+This translation is in progress. I will update it periodically as I find time to work on it. Currently I have finished the main text and I am beginning on the appendices. I estimate that I will finish sometime in April, COVID-19 and childcare permitting.
 
 I'm working on this translation because this seems to be one of those papers that people cite without reading. It is difficult enough to find the original German version, and even that isn't helpful for the large number of people who don't read German.
 
