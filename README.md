@@ -8,6 +8,11 @@ I'm working on this translation because this seems to be one of those papers tha
 
 (It is also probably one of the most important foundational papers in genetics and heredity.)
 
+## Status
+I have finished a translated first draft of the entire manuscript, including appendices and discussion. My abstracts and summaries of the article still need to be fleshed out. 
+
+Thorough revision of the translated text will likely be necessary before the text is fluent, but at this point it should at least be comprehensible to people who read English.
+
 ## Caveats
 
 1. I am not a native or even a fluent German speaker. I hope to learn while carrying out this translation, but it's likely that I will make language mistakes in the process.
