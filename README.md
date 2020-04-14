@@ -19,3 +19,5 @@ Thorough revision of the translated text will likely be necessary before the tex
 
 2. I am an employee of Phase Genomics. This project is unrelated to my work for PG.
 
+## License: CC-BY
+I am making this work available under a CC-BY (attribution) license.
