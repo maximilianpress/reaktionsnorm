@@ -15,6 +15,17 @@ I estimate that I will finish a polished version sometime in summer 2020, COVID-
 
 Thorough revision of the translated text will likely be necessary before the text is fluent, but at this point it should at least be comprehensible to people who read English.
 
+## Further work
+I have begun a brief article discussing this article and some other work in historical context and in how it has affected biological work today.
+
+## Files
+
+* `woltereck_reaktionsnorm.pdf`: translation of Woltereck 1909.
+
+* `Keilhack_review.pdf`: translation of a German-language article published immediately after Woltereck (1909) reviewing its principal conclusions.
+
+* `reaktionsnorm_poster_tagc_2020.pdf`: a poster presented at the virtual conference TAGC 2020.
+
 ## Caveats
 
 1. I am not a native or even a fluent German speaker. I hoped to learn while carrying out this translation, but it's likely that I have made language mistakes in the process.
