@@ -26,6 +26,8 @@ I have begun a brief article discussing this article and some other work in hist
 
 * `Keilhack_review.pdf`: translation of a German-language article published immediately after Woltereck (1909) reviewing its principal conclusions.
 
+* `johannsen_erblichkeit_1903.pdf`: (re)translation of the conclusion of Johannsen's 1903 monograph.
+
 * `reaktionsnorm_poster_tagc_2020.pdf`: a poster presented at the virtual conference TAGC 2020.
 
 ## Caveats
